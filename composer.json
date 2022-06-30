@@ -1,0 +1,12 @@
+{
+    "name": "krish/krishna",
+    "description": "\"A project on live search\"",
+    "type": "library",
+    "authors": [
+        {
+            "name": "krishnaleela",
+            "email": "krishnarjuna25@gmail.com"
+        }
+    ],
+    "require": {}
+}
